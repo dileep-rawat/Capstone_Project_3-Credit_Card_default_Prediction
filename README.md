@@ -1,7 +1,7 @@
 # Capstone_Project_3-Credit_Card_default_Prediction
 
 <p align="center">
-  <img width="300" height="200" src="https://github.com/dileep-rawat/Capstone_Project_3-Credit_Card_default_Prediction/blob/main/credit%20card%20Default.jpeg">
+  <img width="500" height="300" src="https://github.com/dileep-rawat/Capstone_Project_3-Credit_Card_default_Prediction/blob/main/credit%20card%20Default.jpeg">
 </p>
 
 # Statement
